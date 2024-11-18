@@ -39,9 +39,6 @@ More details on current and past projects on related topics are available:
   ![Transaction Class Distribution](image.png)
   ![Time of Transaction vs Amount by Class](image-1.png)
   ![Correlation Matrix](image-2.png)
-  .# Model Prediction
-
-Now it's time to start building the model. The types of algorithms we are going to use to perform anomaly detection on this dataset are as follows:
 
 ## Isolation Forest Algorithm
 
